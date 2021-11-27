@@ -564,7 +564,10 @@ h3 a:active {
     bottom: 20px;
     right: 10px;
     z-index: 99;
-    cursor: pointer; } }
+    cursor: pointer; }
+  /*Grid Cursos html movil*/
+  .H1Secundario {
+    margin-left: 2%; } }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /*Grid Nav Tablet chica*/
@@ -669,10 +672,8 @@ h3 a:active {
   .footer2 .footer2__iconoRedes {
     padding-right: 0%; }
   /*Grid Cursos html tablet*/
-  .cursosH1 {
-    margin-left: 2%; }
   .H1Secundario {
-    margin-left: 4%; } }
+    margin-left: 2%; } }
 
 @media screen and (min-width: 1022px) and (max-width: 1081px) {
   .navbar__logo {

@@ -679,11 +679,8 @@ h3{
     cursor: pointer; 
   }
   /*Grid Cursos html movil*/
-.cursosHTML{
-    margin-left: 4%;
-}
-.cursosH1{
-    margin-right: 5%;
+.H1Secundario{
+    margin-left: 2%;
 }
 }
 @media only screen and (min-width:768px) and (max-width:991px){
@@ -830,14 +827,9 @@ h3{
         }
     }
 /*Grid Cursos html tablet*/
-.cursosHTML{
-    margin-left: 8%;
-}
-.cursosH1{
-    margin-left: 8%;
-}
+
 .H1Secundario {
-    margin-left: 10%;
+    margin-left: 2%;
 }
 }
 @media screen and (min-width:1022px) and (max-width:1081px) {
