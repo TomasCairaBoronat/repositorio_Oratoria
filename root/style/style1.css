@@ -682,6 +682,7 @@ h3 a:active {
 
 @media screen and (min-width: 1200px) and (max-width: 1508px) {
   nav ul li {
-    font-size: 1.6rem; }
+    font-size: 1.6rem;
+    line-height: 1.8rem; }
   .footer2 .footer2__iconoRedes {
     padding-right: 15%; } }
